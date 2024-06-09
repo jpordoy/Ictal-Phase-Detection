@@ -2,8 +2,8 @@
 
   <img src="logo.png" alt="logo" width="200" height="auto" />
 
-  <p>Ictal Phase Detection</p>
-  <p>Enhanced Non-EEG Multimodal Seizure Detection: A Real-World Model for Identifying Generalised Seizures Across The Ictal State</p>
+  <h2>Ictal Phase Detection</h2>
+  <h3>Enhanced Non-EEG Multimodal Seizure Detection: A Real-World Model for Identifying Generalised Seizures Across The Ictal State</h3>
   <p>This read me is under development</p>
 
   
