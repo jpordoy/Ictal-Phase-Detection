@@ -2,8 +2,9 @@
 
   <img src="Images/3.png" alt="logo" width="200" height="auto" />
 
-  <p>Attention-guided Multi-Branching-pipeline with Enhanced Residual fusion</p>
-    <p>This read me is under development</p>
+  <p>Ictal Phase Detection</p>
+  <p>Enhanced Non-EEG Multimodal Seizure Detection: A Real-World Model for Identifying Generalised Seizures Across The Ictal State</p>
+  <p>This read me is under development</p>
 
   
   
