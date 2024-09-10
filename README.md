@@ -6,7 +6,7 @@
 
 <sup>1</sup>University of West London<sup>2</sup>Open Seizure Detector<sup>3</sup> Pleotek LTD
 
-(<sup>:email:jamiepordoy@hotmail.com</sup>) Dr. Jamie Pordoy.
+(Corresponding Author: <sup>jamiepordoy@hotmail.com</sup>) Dr. Jamie Pordoy.
 
 TechrXiv Preprint ([TechrXiv 1095532](https://www.techrxiv.org/users/692829/articles/1095532-enhanced-non-eeg-multimodal-seizure-detection-a-real-world-model-for-identifying-generalised-seizures-across-the-ictal-state)), AMBER Model (https://github.com/jpordoy/AMBER)
 
