@@ -14,15 +14,18 @@ TechrXiv Preprint ([TechrXiv 1095532](https://www.techrxiv.org/users/692829/arti
 </div>
 
 
-
 #
 
+* **`July 21st, 2024`:**  The AMBER model has been made open source, and we are beginning to prepare version 1. Please get in touch! Further details can be found in the code and our TechArXiv preprint.
+
+* **`June 12, 2024`:** We are pleased to announce the release of our paper on TechRxiv. The accompanying code and models will be available soon. Stay tuned for updates! ☕️
+
+ ☕️
+
+[Latest Update] The AMBER model has been made open source, and we are beginning to prepare version 1 for release. Please feel free to experiment with the prelimianry code base, and if anyone would like to work on this open-source project, please get in touch!
 
 
-### News
-* **` Feb. 10th, 2024`:** We update Vim-tiny/small weights and training scripts. By placing the class token at middle, Vim achieves improved results. Further details can be found in code and our updated [arXiv](https://arxiv.org/abs/2401.09417).
-
-* **` Jan. 18th, 2024`:** We released our paper on Arxiv. Code/Models are coming soon. Please stay tuned! ☕️
+☕️
 
 
 ## Abstract
