@@ -2,9 +2,9 @@
 <h1>Ictal-Phase Detection</h1>
 <h3>Enhanced Non-EEG Multimodal Seizure Detection: A Real-World Model for Identifying Generalised Seizures Across The Ictal State</h3>
 
-[Jamie Pordoy](https://github.com/Unrealluver)<sup>1</sup> \*,[Graham Jones](https://github.com/LegendBC)<sup>1</sup> \*,[Nasser Mattorianpour](https://scholar.google.com/citations?user=pCY-bikAAAAJ&hl=zh-CN)<sup>2</sup>, [Nasim Dadeshi](https://www.xloong.wang/)<sup>3</sup>, [Massoud Zolgharni](http://eic.hust.edu.cn/professor/liuwenyu/)<sup>1</sup>, [Xinggang Wang](https://xwcv.github.io/)<sup>1 :email:</sup>
+[Jamie Pordoy](https://github.com/Unrealluver)<sup>1</sup> \*,[Graham Jones](https://github.com/LegendBC)<sup>1</sup> \*,[Nasser Mattorianpour](https://scholar.google.com/citations?user=pCY-bikAAAAJ&hl=zh-CN)<sup>2</sup>, [Nasim Dadeshi](https://www.xloong.wang/)<sup>3</sup>, [Massoud Zolgharni](http://eic.hust.edu.cn/professor/liuwenyu/)<sup>1</sup>
 
-<sup>1</sup>  Huazhong University of Science and Technology, <sup>2</sup>  Horizon Robotics,  <sup>3</sup> Beijing Academy of Artificial Intelligence
+<sup>1</sup>University of West London<sup>2</sup>Open Seizure Detector<sup>3</sup> Pleotek LTD
 
 (\*) equal contribution, (<sup>:email:</sup>) corresponding author.
 
