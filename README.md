@@ -8,7 +8,7 @@
 
 (\*) equal contribution, (<sup>:email:</sup>) corresponding author.
 
-TechrXiv Preprint ([arXiv 2401.09417]([https://www.techrxiv.org/users/692829/articles/1095532-enhanced-non-eeg-multimodal-seizure-detection-a-real-world-model-for-identifying-generalised-seizures-across-the-ictal-state)])), HuggingFace Page ([🤗 2401.09417](https://huggingface.co/papers/2401.09417))
+ArXiv Preprint ([arXiv 2401.09417](https://www.techrxiv.org/users/692829/articles/1095532-enhanced-non-eeg-multimodal-seizure-detection-a-real-world-model-for-identifying-generalised-seizures-across-the-ictal-state)), HuggingFace Page ([🤗 2401.09417](https://huggingface.co/papers/2401.09417))
 
 
 </div>
