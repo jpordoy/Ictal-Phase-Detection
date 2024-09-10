@@ -2,11 +2,11 @@
 <h1>Ictal-Phase Detection</h1>
 <h3>Enhanced Non-EEG Multimodal Seizure Detection: A Real-World Model for Identifying Generalised Seizures Across The Ictal State</h3>
 
-[Jamie Pordoy](https://github.com/Unrealluver)<sup>1</sup> \*,[Graham Jones](https://github.com/LegendBC)<sup>1</sup> \*,[Nasser Mattorianpour](https://scholar.google.com/citations?user=pCY-bikAAAAJ&hl=zh-CN)<sup>2</sup>, [Nasim Dadeshi](https://www.xloong.wang/)<sup>3</sup>, [Massoud Zolgharni](http://eic.hust.edu.cn/professor/liuwenyu/)<sup>1</sup>
+[Jamie Pordoy](https://github.com/Unrealluver)<sup>1</sup> \*,[Graham Jones](https://github.com/LegendBC)<sup>2</sup> \*,[Nasser Mattorianpour](https://scholar.google.com/citations?user=pCY-bikAAAAJ&hl=zh-CN)<sup>1</sup>, ,[Molly Evans](https://github.com/LegendBC)<sup>3</sup> \*, [Nasim Dadeshi](https://www.xloong.wang/)<sup>1</sup>, [Massoud Zolgharni](http://eic.hust.edu.cn/professor/liuwenyu/)<sup>1</sup>
 
 <sup>1</sup>University of West London<sup>2</sup>Open Seizure Detector<sup>3</sup> Pleotek LTD
 
-(\*) equal contribution, (<sup>:email:</sup>) corresponding author.
+(<sup>:email:jamiepordoy@hotmail.com</sup>) Dr. Jamie Pordoy.
 
 TechrXiv Preprint ([TechrXiv 1095532](https://www.techrxiv.org/users/692829/articles/1095532-enhanced-non-eeg-multimodal-seizure-detection-a-real-world-model-for-identifying-generalised-seizures-across-the-ictal-state)), AMBER Model (https://github.com/jpordoy/AMBER)
 
