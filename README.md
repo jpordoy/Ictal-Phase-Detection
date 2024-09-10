@@ -1,15 +1,20 @@
 <div align="center">
+<h1>Ictal-Phase Detection</h1>
+<h3>Enhanced Non-EEG Multimodal Seizure Detection: A Real-World Model for Identifying Generalised Seizures Across The Ictal State</h3>
 
-  <img src="logo.png" alt="logo" width="200" height="auto" />
+[Jamie Pordoy](https://github.com/Unrealluver)<sup>1</sup> \*,[Graham Jones](https://github.com/LegendBC)<sup>1</sup> \*,[Nasser Mattorianpour](https://scholar.google.com/citations?user=pCY-bikAAAAJ&hl=zh-CN)<sup>2</sup>, [Nasim Dadeshi](https://www.xloong.wang/)<sup>3</sup>, [Massoud Zolgharni](http://eic.hust.edu.cn/professor/liuwenyu/)<sup>1</sup>, [Xinggang Wang](https://xwcv.github.io/)<sup>1 :email:</sup>
 
-  <h2>Ictal Phase Detection</h2>
-  <h3>Enhanced Non-EEG Multimodal Seizure Detection: A Real-World Model for Identifying Generalised Seizures Across The Ictal State</h3>
-  <p>This read me is under development</p>
+<sup>1</sup>  Huazhong University of Science and Technology, <sup>2</sup>  Horizon Robotics,  <sup>3</sup> Beijing Academy of Artificial Intelligence
 
-  
-  
+(\*) equal contribution, (<sup>:email:</sup>) corresponding author.
+
+ArXiv Preprint ([arXiv 2401.09417](https://arxiv.org/abs/2401.09417)), HuggingFace Page ([🤗 2401.09417](https://huggingface.co/papers/2401.09417))
+
 
 </div>
+
+
+#
 
 <br />
 
