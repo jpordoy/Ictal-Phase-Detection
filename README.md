@@ -18,9 +18,11 @@ TechrXiv Preprint ([TechrXiv 1095532](https://www.techrxiv.org/users/692829/arti
 
 [Latest Update] News
 
-* **`July 21st, 2024`:**  The AMBER model has been made open source, and we are beginning to prepare version 1. Please get in touch! Further details can be found in the code and our TechArXiv preprint.
+* **September 5th, 2024:** We have created a single Python file called myScript.py that contains the full codebase, making it easier to adapt and run in a Colab or IPYNB environment.
 
-* **`June 12, 2024`:** We are pleased to announce the release of our paper on TechRxiv. The accompanying code and models will be available soon. Stay tuned for updates! ☕️
+* **July 21st, 2024:**  The AMBER model has been made open source, and we are beginning to prepare version 1. Please get in touch! Further details can be found in the code and our TechArXiv preprint.
+
+* **June 12, 2024:** We are pleased to announce the release of our paper on TechRxiv. The accompanying code and models will be available soon. Stay tuned for updates! ☕️
 
 ☕️
 
