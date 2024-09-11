@@ -188,8 +188,25 @@ Please read the [Code of Conduct](https://github.com/Louis3797/awesome-readme-te
   + Answer 2
 
 
-## Acknowledgement :heart:
-This project is based on Mamba ([paper](https://arxiv.org/abs/2312.00752), [code](https://github.com/state-spaces/mamba)), Causal-Conv1d ([code](https://github.com/Dao-AILab/causal-conv1d)), DeiT ([paper](https://arxiv.org/abs/2012.12877), [code](https://github.com/facebookresearch/deit)). Thanks for their wonderful works.
+## Acknowledgement:
+We extend our sincere gratitude to Open Seizure Detector for
+providing early access to the Open Seizure Database. Their steadfast
+dedication to open research will greatly enhance the progress of non-
+EEG seizure detection research. We wholeheartedly acknowledge and
+commend their unwavering support and commitment to advancing
+scientific exploration and knowledge within the epilepsy community.
+Additionally, we express our appreciation to the participants of the
+Open Seizure Database. Without their dedication and commitment,
+this research would not be feasible.
+
+## AVAILABILITY OF DATA AND MATERIALS:
+We are committed to advancing non-EEG detection research and
+are pleased to announce the availability of our study’s results, models,
+and code base. The AMBER model is now distributed under the MIT
+license as open-source [41]. We invite any technical contributions
+aimed at enhancing the model’s performance and extending its
+application in non-EEG seizure detection. The full code base and
+results for this project are now accessible on GitHub
 
 ## Citation
 If you find this code useful in your research or applications, please consider giving us a star 🌟 and citing it by the following BibTeX entry.
