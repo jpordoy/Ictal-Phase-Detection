@@ -188,21 +188,18 @@ Please read the [Code of Conduct](https://github.com/Louis3797/awesome-readme-te
   + Answer 2
 
 
-<!-- License -->
-## :warning: License
+## Acknowledgement :heart:
+This project is based on Mamba ([paper](https://arxiv.org/abs/2312.00752), [code](https://github.com/state-spaces/mamba)), Causal-Conv1d ([code](https://github.com/Dao-AILab/causal-conv1d)), DeiT ([paper](https://arxiv.org/abs/2012.12877), [code](https://github.com/facebookresearch/deit)). Thanks for their wonderful works.
 
-Distributed under the no License. See LICENSE.txt for more information.
+## Citation
+If you find this code useful in your research or applications, please consider giving us a star 🌟 and citing it by the following BibTeX entry.
 
-
-<!-- Contact -->
-## :handshake: Contact
-
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
-
-Project Link: [https://github.com/Louis3797/awesome-readme-template](https://github.com/Louis3797/awesome-readme-template)
-
-
-<!-- Acknowledgments -->
-## :gem: Acknowledgements
-
-
+```bibtex
+ @article{IPD24,
+  title={Enhanced Non-EEG Multimodal Seizure Detection: A Real-World Model for Identifying Generalised Seizures Across The Ictal State},
+  author={J. Pordoy, G. Jones, N. Matoorian, et al},
+  journal={TechRxiv preprint},
+  year={2024}
+  doi={DOI: 10.36227/techrxiv.171822381.12552111/v1}
+}
+```
