@@ -124,7 +124,7 @@ print("Cohen's Kappa:", evaluation_results["cohen_kappa"])
 
 Contributions are always welcome!
 
-See `contributing.md` for ways to get started.
+Please email at jamiepordoy@hotmail.com for ways to get started.
 
 <!-- Code of Conduct -->
 ### :scroll: Code of Conduct
