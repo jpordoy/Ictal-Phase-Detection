@@ -78,28 +78,6 @@ Non-electroencephalogram seizure detection models hold promise for the early det
 
 
 <!-- Getting Started -->
-## 	:toolbox: Getting Started
-
-<!-- Prerequisites -->
-### :bangbang: Prerequisites
-
-This project uses Yarn as package manager
-
-```bash
- npm install --global yarn
-```
-
-<!-- Installation -->
-### :gear: Installation
-
-  
-<!-- Running Tests -->
-### :test_tube: Running Tests
-
-To run tests, run the following command
-
-<!-- Run Locally -->
-### :running: Run Locally
 
 Clone the project
 
