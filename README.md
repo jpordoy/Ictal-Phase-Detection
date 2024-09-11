@@ -30,12 +30,7 @@ Non-electroencephalogram seizure detection models hold promise for the early det
 <br />
 
 <div align="center">
-<img src="assets/vim_teaser_v1.7.png" />
-</div>
-
-## Overview
-<div align="center">
-<img src="assets/vim_pipeline_v1.9.png" />
+<img src="https://github.com/jpordoy/Ictal-Phase-Detection/blob/main/Manuscript_Images/model.png" />
 </div>
 
 ## Envs. for Pretraining
