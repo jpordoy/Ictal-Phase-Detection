@@ -42,17 +42,6 @@ Non-electroencephalogram seizure detection models hold promise for the early det
 - Tensorflow version 2.15.0
   - `pip install tensorflow==2.15.0  --index-url (https://github.com/tensorflow/tensorflow/releases/tag/v2.15.0-rc1)`
 
-- Requirements: requirements.txt
-  - `pip install -r requirements.txt`
-
-<!-- Screenshots -->
-### :camera: Screenshots
-
-<div align="center"> 
-  <img src="Images/Branches_2.png" alt="screenshot" />
-</div>
-
-
 
 <!-- Getting Started -->
 
