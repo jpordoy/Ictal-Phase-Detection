@@ -45,10 +45,6 @@ Non-electroencephalogram seizure detection models hold promise for the early det
 - Requirements: requirements.txt
   - `pip install -r requirements.txt`
 
-- Install ``causal_conv1d`` and ``mamba``
-  - `pip install -e causal_conv1d>=1.1.0`
-  - `pip install -e mamba-1p1p1`
-
 <!-- Table of Contents -->
 # :notebook_with_decorative_cover: Table of Contents
 
