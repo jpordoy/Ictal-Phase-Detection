@@ -35,15 +35,15 @@ Non-electroencephalogram seizure detection models hold promise for the early det
 
 ## Envs. for Pretraining
 
-- Python 3.10.13
+- Python 3.7.17
 
-  - `conda create -n your_env_name python=3.10.13`
+  - `conda create -n your_env_name python=3.7.17`
 
-- torch 2.1.1 + cu118
-  - `pip install torch==2.1.1 torchvision==0.16.1 torchaudio==2.1.1 --index-url https://download.pytorch.org/whl/cu118`
+- Tensorflow version 2.15.0
+  - `pip install tensorflow==2.15.0  --index-url (https://github.com/tensorflow/tensorflow/releases/tag/v2.15.0-rc1)`
 
-- Requirements: vim_requirements.txt
-  - `pip install -r vim/vim_requirements.txt`
+- Requirements: requirements.txt
+  - `pip install -r requirements.txt`
 
 - Install ``causal_conv1d`` and ``mamba``
   - `pip install -e causal_conv1d>=1.1.0`
