@@ -186,23 +186,8 @@ Contributions are always welcome!
 
 See `contributing.md` for ways to get started.
 
-
 <!-- Code of Conduct -->
 ### :scroll: Code of Conduct
-
-Please read the [Code of Conduct](https://github.com/Louis3797/awesome-readme-template/blob/master/CODE_OF_CONDUCT.md)
-
-<!-- FAQ -->
-## :grey_question: FAQ
-
-- Question 1
-
-  + Answer 1
-
-- Question 2
-
-  + Answer 2
-
 
 ## Acknowledgement:
 We extend our sincere gratitude to Open Seizure Detector for
