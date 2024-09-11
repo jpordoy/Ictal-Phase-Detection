@@ -29,6 +29,31 @@ TechrXiv Preprint ([TechrXiv 1095532](https://www.techrxiv.org/users/692829/arti
 Non-electroencephalogram seizure detection models hold promise for the early detection of generalised onset seizures. However, these models often experience high false alarm rates and difficulties in distinguishing normal movements from seizure manifestations. To address this, we were granted exclusive access to the newly developed Open Seizure Database, from which a representative dataset of 94 events was selected (42 generalised tonic-clonic seizures, 19 auras/focal seizures, and 33 seizures labelled as Other), with a combined duration of approximately 5 hours and 29 minutes. Each event contains acceleration and heart rate data which was expertly annotated by a clinician, who labelled every 5 second timestep with a class of Normal, Pre-Ictal, or Ictal. We then introduced the AMBER (Attention-guided Multi-Branching-pipeline with Enhanced Residual fusion) model. AMBER constructs multiple branches to form independent feature extraction pipelines for each sensing modality. The outputs of each branch are passed to our custom Enhanced Residual Fusion layer, where the extracted features are combined into a fused representation. The fused representation is then propagated through two densely connected blocks before being passed through a softmax activation function. The model was trained using k-fold cross validation, with k-1 fold used to train the model and the remaining fold was used to evaluate the model’s performance. The results of these experiments underscore the efficacy of Ictal-Phase Detection, achieving an accuracy and f1-score of 0.8995 and 0.8987. Notably, the model exhibited consistent generalisation, recording a True Positive Rate of 0.9564, 0.8325, and 0.9111 for the Normal, Pre-Ictal, and Ictal classes respectively. These findings were compounded by an average False Positive Rate, recording an overall score of 0.0502. In conclusion, this research introduces a new detection technique and model designed for multimodal seizure detection, with the potential to reduce the false alarm window and differentiate high and low amplitude convulsive movement. We believe the results of this study lay the groundwork for further advancements in non-electroencephalogram seizure detection research.
 <br />
 
+<div align="center">
+<img src="assets/vim_teaser_v1.7.png" />
+</div>
+
+## Overview
+<div align="center">
+<img src="assets/vim_pipeline_v1.9.png" />
+</div>
+
+## Envs. for Pretraining
+
+- Python 3.10.13
+
+  - `conda create -n your_env_name python=3.10.13`
+
+- torch 2.1.1 + cu118
+  - `pip install torch==2.1.1 torchvision==0.16.1 torchaudio==2.1.1 --index-url https://download.pytorch.org/whl/cu118`
+
+- Requirements: vim_requirements.txt
+  - `pip install -r vim/vim_requirements.txt`
+
+- Install ``causal_conv1d`` and ``mamba``
+  - `pip install -e causal_conv1d>=1.1.0`
+  - `pip install -e mamba-1p1p1`
+
 <!-- Table of Contents -->
 # :notebook_with_decorative_cover: Table of Contents
 
