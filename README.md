@@ -98,29 +98,25 @@ This project uses Yarn as package manager
 
 To run tests, run the following command
 
-```bash
-  yarn test test
-```
-
 <!-- Run Locally -->
 ### :running: Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://github.com/Louis3797/awesome-readme-template.git
+  git clone https://github.com/jpordoy/Ictal-Phase-Detection.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd Ictal-Phase-Detection
 ```
 
 Install dependencies
 
 ```bash
-  yarn install
+  pip install -r requirements.txt
 ```
 
 ### How To Run The Code
