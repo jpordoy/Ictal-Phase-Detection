@@ -1,5 +1,6 @@
 
-### Epilepsy Ictal Phase Detection Dataset
+<img src="logo.png" alt="logo" style="width:200px">
+
 <small>
 The Epilepsy Ictal Phase Detection Dataset is a specialized dataset derived from the publicly accessible Open Seizure Database (OSDB), a resource designed to facilitate research in non-EEG seizure detection. This dataset has been expertly annotated by clinical specialists to provide phase-specific labels for seizure events, making it a unique and invaluable resource for research into the temporal dynamics of seizures. Each 5-second timestep of the recorded events has been classified into one of three distinct phases: Normal (non-seizure), Pre-Ictal (pre-seizure), or Ictal (seizure). The IPDD dataset consists of 94 events, meticulously selected and annotated from the OSDB. These events are categorized into the following seizure types:
 
