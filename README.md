@@ -2,11 +2,20 @@
 <img src="logo.png" alt="logo" style="width:300px">
 
 <small>
-The Epilepsy Ictal Phase Detection Dataset is a specialized dataset derived from the publicly accessible Open Seizure Database (OSDB), a resource designed to facilitate research in non-EEG seizure detection. This dataset has been expertly annotated by clinical specialists to provide phase-specific labels for seizure events, making it a unique and invaluable resource for research into the temporal dynamics of seizures. Each 5-second timestep of the recorded events has been classified into one of three distinct phases: Normal (non-seizure), Pre-Ictal (pre-seizure), or Ictal (seizure). The IPDD dataset consists of 94 events, meticulously selected and annotated from the OSDB. These events are categorized into the following seizure types:
+The Epilepsy Ictal Phase Detection Dataset is a specialised dataset derived from the Open Seizure Database (OSDB), a resource designed to facilitate research in non-EEG seizure detection. This dataset has been expertly annotated by clinical specialists to provide phase-specific labels for seizure events, making it a unique resource for research into the temporal dynamics of seizures. Each 5-second timestep of the recorded events has been labelled into one of three distinct phases: Normal (non-seizure), Pre-Ictal (pre-seizure), or Ictal (seizure). The Epilepsy Ictal Phase Detection dataset consists of 94 events, selected and annotated from the OSDB. These events are categorised by seizure as follows:
 
-- 42 Generalized Tonic-Clonic (GTC) seizures,
-- 19 Auras/Focal seizures, and
-- 33 seizures categorized as Other (seizures lacking additional subtype categorization).
+- 42 Generalized Tonic-Clonic (GTC) seizures
+
+<img src="images/Tonic-Clonic.png" alt="logo" style="width:500px">
+
+- 19 Auras/Focal seizures
+
+<img src="images/Aura.png" alt="logo" style="width:500px">
+
+- 33 seizures categorized as Other (seizures lacking additional subtype categorization)
+
+<img src="images/Other-Seizure.png" alt="logo" style="width:500px">
+
 </small>
 
 <small>
@@ -22,8 +31,8 @@ The dataset represents non-EEG data collected from 18 participants diagnosed wit
 ### ⚙️ Installation
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/your-username/ictal-phase-detection.git
-   cd ictal-phase-detection
+   git clone https://github.com/jpordoy/Epilepsy-Ictal-Phase-Detection-Dataset.git
+   cd Epilepsy-Ictal-Phase-Detection-Dataset
    ```
 
 2. **Install dependencies:**
@@ -41,7 +50,7 @@ To access the dataset, complete the [Dataset Access Form](#).
 ### Download the Dataset
 Once approved, download the dataset and place the files in the `Data/` directory:
 ```text
-ictal-phase-detection/
+Epilepsy-Ictal-Phase-Detection-Dataset/
 ├── Data/
 │   ├── sample_dataset.csv
 │   ├── full_dataset.csv
