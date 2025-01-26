@@ -25,7 +25,7 @@ The dataset represents non-EEG data collected from 18 participants diagnosed wit
 
 ### 📝 Annotated Class Labels
 
-The events in this dataset were annotated by clinical experts based on their analysis of the patient data. Each event is classified into one of the following categories:
+The events in this dataset were annotated by clinical experts based on their analysis of the patient/event data. Each event is classified into one of the following categories:
 
 - **Normal** ⚪: Represents periods without any signs of seizure activity. (Label: `0`)
 - **Pre-Ictal** 🔵: Represents the phase preceding a seizure, indicating early signs of seizure activity. (Label: `1`)
