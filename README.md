@@ -20,6 +20,23 @@ The Epilepsy Ictal Phase Detection Dataset is a specialised dataset derived from
 
 <small>
 The dataset represents non-EEG data collected from 18 participants diagnosed with generalized epilepsy. The total duration of the dataset is 5 hours, 29 minutes, and 5 seconds of annotated seizure activity, offering a substantial basis for research into seizure phase classification and detection.
+
+---
+
+### 📝 Event Annotation and Class Labels
+
+The events in this dataset were annotated by clinical experts based on their analysis of the patient data. Each event is classified into one of the following categories:
+
+- **Normal** ⚪: Represents periods without any signs of seizure activity. (Label: `0`)
+- **Pre-Ictal** 🔵: Represents the phase preceding a seizure, indicating early signs of seizure activity. (Label: `1`)
+- **Ictal** 🟢: Represents the seizure phase, where clear seizure activity is observed. (Label: `2`)
+
+These class labels were assigned to specific time windows based on expert interpretation. Clinicians were assisted by partial video footage showcasing the different ictal phases to aid in accurate labeling.
+
+The script used to guide the annotation process can be found in the `ClinicianAnnotations/ClinicianAnnotationScript.py` file. Below is a visual representation of the annotated events, where the x-axis shows the class labels for each event:
+
+<img src="Images/Annotations.png" alt="logo" style="width:900px">
+
 ---
 
 ## 🚀 Getting Started
