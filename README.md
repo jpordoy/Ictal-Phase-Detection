@@ -2,7 +2,7 @@
 <img src="logo.png" alt="logo" style="width:300px">
 
 <small>
-The Epilepsy Ictal Phase Detection Dataset is a specialised dataset derived from the Open Seizure Database (OSDB), a resource designed to facilitate research in non-EEG seizure detection. This dataset has been expertly annotated by clinical specialists to provide phase-specific labels for seizure events, making it a unique resource for research into the temporal dynamics of seizures. Each 5-second timestep of the recorded events has been labelled into one of three distinct phases: Normal (non-seizure), Pre-Ictal (pre-seizure), or Ictal (seizure). The Epilepsy Ictal Phase Detection dataset consists of 94 events, selected and annotated from the OSDB. These events are categorised by seizure as follows:
+The Epilepsy Ictal Phase Detection Dataset is a specialised dataset derived from the <a href="https://github.com/OpenSeizureDetector/OpenSeizureDatabase">Open Seizure Database</a>, a resource designed to facilitate research in non-EEG seizure detection. This dataset has been expertly annotated by clinical specialists to provide phase-specific labels for seizure events, making it a unique resource for research into the temporal dynamics of seizures. Each 5-second timestep of the recorded events has been labelled into one of three distinct phases: Normal (non-seizure), Pre-Ictal (pre-seizure), or Ictal (seizure). The Epilepsy Ictal Phase Detection dataset consists of 94 events, selected and annotated from the OSDB. These events are categorised by seizure as follows:
 
 - 42 Generalized Tonic-Clonic (GTC) seizures
 
