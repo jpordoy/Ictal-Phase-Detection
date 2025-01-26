@@ -33,7 +33,7 @@ The events in this dataset were annotated by clinical experts based on their ana
 
 These class labels were assigned to specific time windows based on expert interpretation. Clinicians were assisted by partial video footage showcasing the different ictal phases to aid in accurate labeling.
 
-The script used to guide the annotation process can be found in the `Clinical_Guide/Clinicial_Annotation_Guide.ipynb` file. Below is a visual representation of the annotated events, where the x-axis shows the class labels for each event:
+The script used to guide the annotation process can be found in the `Clinical_Guide/Clinicial_Annotation_Guide.ipynb` file. Below is a visual representation of the annotated events, where the upper x-axis shows the class labels for each event, with coloured backdrops for user visualisation:
 
 <img src="Images/Annotations.png" alt="logo" style="width:900px">
 
