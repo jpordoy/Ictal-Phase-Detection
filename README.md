@@ -23,7 +23,7 @@ The dataset represents non-EEG data collected from 18 participants diagnosed wit
 
 ---
 
-### 📝 Event Annotation and Class Labels
+### 📝 Annotated Class Labels
 
 The events in this dataset were annotated by clinical experts based on their analysis of the patient data. Each event is classified into one of the following categories:
 
