@@ -6,15 +6,15 @@ The Epilepsy Ictal Phase Detection Dataset is a specialised dataset derived from
 
 - 42 Generalized Tonic-Clonic (GTC) seizures
 
-<img src="Images/Tonic-Clonic.png" alt="logo" style="width:500px">
+<img src="Images/Tonic-Clonic.png" alt="logo" style="width:900px">
 
 - 19 Auras/Focal seizures
 
-<img src="Images/Aura.png" alt="logo" style="width:500px">
+<img src="Images/Aura.png" alt="logo" style="width:900px">
 
 - 33 seizures categorized as Other (seizures lacking additional subtype categorization)
 
-<img src="Images/Other-Seizure.png" alt="logo" style="width:500px">
+<img src="Images/Other-Seizure.png" alt="logo" style="width:900px">
 
 </small>
 
