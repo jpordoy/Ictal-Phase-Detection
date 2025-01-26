@@ -112,7 +112,9 @@ We welcome and encourage contributions to enhance this repository!
 
 If you would like to contribute research or insights related to the Ictal Phase Detection Dataset, please feel free. 
 
-Access the Open Seizure Database (OSDB): The original OSDB, from which the events of this dataset are derived, can be accessed here.
+Access the Open Seizure Database (OSDB): The original OSDB, from which the events of this dataset are derived, can be accessed <a href="https://github.com/OpenSeizureDetector/OpenSeizureDatabase">here</a>.
+
+A link to inital study published in the <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020">IEEE Journal of Biomedical and Health Informatics<a/> can be seen <a href="https://www.researchgate.net/publication/388258600_Enhanced_Non-EEG_Multimodal_Seizure_Detection_A_Real-World_Model_for_Identifying_Generalised_Seizures_Across_the_Ictal_State">here</a>.
 
 Add Publications: If you have published work using the this dataset, please create a pull request and add your publication to the Publications folder in this repository. This helps to create a shared resource for the community and highlights the ongoing research based on this dataset.
 For more details, refer to our Contribution Guidelines. 
