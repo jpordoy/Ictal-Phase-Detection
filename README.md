@@ -62,7 +62,7 @@ The script used to guide the annotation process can be found in the `Clinical_Gu
 ## 📂 Dataset Access
 
 ### Request Access
-To access the dataset, complete the [Dataset Access Form](#).  
+To access the dataset, email jamiepordoy@hotmail.com  
 
 ### Download the Dataset
 Once approved, download the dataset and place the files in the `Data/` directory:
@@ -122,7 +122,3 @@ For more details, refer to our Contribution Guidelines.
 Thank you for your valuable contributions!
 
 ---
-
-## 📜 License
-
-This project is licensed under the terms of the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**. See the [LICENSE.md](./LICENSE.md) file for more details.
